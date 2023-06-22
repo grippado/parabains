@@ -1,0 +1,29 @@
+{
+  "name": "parabains",
+  "version": "1.0.0",
+  "description": "Parabains",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/grippado/parabains.git"
+  },
+  "author": "Grippado",
+  "license": "MIT",
+  "bin": {
+    "parabains": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/grippado/parabains/issues"
+  },
+  "homepage": "https://github.com/grippado/parabains#readme",
+  "dependencies": {
+    "ramda": "^0.29.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "parabains"
+  ]
+}
