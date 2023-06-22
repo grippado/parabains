@@ -4,7 +4,7 @@
     <img src="./parabains.jpg" height="300"/>
 </div>
 
-> Dale dale dale dale PQP! 
+> Parabains parabains parabains...! 
 
 ## Compatibility
 
